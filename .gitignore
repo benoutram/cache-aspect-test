@@ -1,0 +1,11 @@
+﻿## IDEs
+.idea
+.vscode
+
+## Application
+bin
+obj
+
+## CSharp
+
+*.sln.DotSettings.user
